@@ -20,17 +20,11 @@ The learning path is organized into three major sections:
 
 Learn the fundamentals of Python programming, including variables, data types, operators, input/output, conditional statements, loops, and functions.
 
-📖 Resource:
-[https://www.studypool.com/services/30109177](https://www.studypool.com/services/30109177)
-
 ---
 
 ## Hands-on Python 1.2
 
 Continue building your programming skills with practical examples and hands-on exercises covering advanced Python concepts.
-
-📖 Resource:
-[https://www.studypool.com/services/30364566](https://www.studypool.com/services/30364566)
 
 ---
 
@@ -40,20 +34,20 @@ Follow this structured day-by-day learning plan to strengthen your Python progra
 
 | Day    | Resource                                                                                   |
 | ------ | ------------------------------------------------------------------------------------------ |
-| Day 1  | [https://www.studypool.com/services/30421875](https://www.studypool.com/services/30421875) |
-| Day 2  | [https://www.studypool.com/services/30421901](https://www.studypool.com/services/30421901) |
-| Day 3  | [https://www.studypool.com/services/30421905](https://www.studypool.com/services/30421905) |
-| Day 4  | [https://www.studypool.com/services/30421908](https://www.studypool.com/services/30421908) |
-| Day 5  | [https://www.studypool.com/services/30421910](https://www.studypool.com/services/30421910) |
-| Day 6  | [https://www.studypool.com/services/30421913](https://www.studypool.com/services/30421913) |
-| Day 7  | [https://www.studypool.com/services/30421915](https://www.studypool.com/services/30421915) |
-| Day 8  | [https://www.studypool.com/services/30421916](https://www.studypool.com/services/30421916) |
-| Day 9  | [https://www.studypool.com/services/30421918](https://www.studypool.com/services/30421918) |
-| Day 10 | [https://www.studypool.com/services/30421886](https://www.studypool.com/services/30421886) |
-| Day 11 | [https://www.studypool.com/services/30421888](https://www.studypool.com/services/30421888) |
-| Day 12 | [https://www.studypool.com/services/30421892](https://www.studypool.com/services/30421892) |
-| Day 13 | [https://www.studypool.com/services/30421895](https://www.studypool.com/services/30421895) |
-| Day 14 | [https://www.studypool.com/services/30421899](https://www.studypool.com/services/30421899) |
+| Day 1  |  |
+| Day 2  |  |
+| Day 3  |  |
+| Day 4  |  |
+| Day 5  |  |
+| Day 6  |  |
+| Day 7  |  |
+| Day 8  |  |
+| Day 9  |  |
+| Day 10 |  |
+| Day 11 |  |
+| Day 12 |  |
+| Day 13 |  |
+| Day 14 |  |
 
 ---
 
@@ -63,17 +57,11 @@ Follow this structured day-by-day learning plan to strengthen your Python progra
 
 Pandas is one of the most widely used Python libraries for data manipulation, cleaning, transformation, and analysis.
 
-📖 Resource:
-[https://www.studypool.com/services/30621528](https://www.studypool.com/services/30621528)
-
 ---
 
 ## NumPy
 
 NumPy provides high-performance multidimensional arrays and mathematical operations, forming the foundation of scientific computing in Python.
-
-📖 Resource:
-[https://lnkd.in/gg9Uw-km](https://lnkd.in/gg9Uw-km)
 
 ---
 
@@ -83,17 +71,11 @@ NumPy provides high-performance multidimensional arrays and mathematical operati
 
 Matplotlib enables the creation of high-quality plots, charts, and graphs for data visualization.
 
-📖 Resource:
-[https://lnkd.in/gahrGicD](https://lnkd.in/gahrGicD)
-
 ---
 
 ## Seaborn
 
 Seaborn is built on top of Matplotlib and provides elegant statistical visualizations with minimal code.
-
-📖 Resource:
-[https://lnkd.in/gcu4UKpw](https://lnkd.in/gcu4UKpw)
 
 ---
 
@@ -103,9 +85,6 @@ Seaborn is built on top of Matplotlib and provides elegant statistical visualiza
 
 Scikit-learn offers a rich collection of machine learning algorithms for classification, regression, clustering, dimensionality reduction, and model evaluation.
 
-📖 Resource:
-[https://lnkd.in/gGfkNu5i](https://lnkd.in/gGfkNu5i)
-
 ---
 
 # 🧠 Deep Learning
@@ -114,26 +93,17 @@ Scikit-learn offers a rich collection of machine learning algorithms for classif
 
 TensorFlow is Google's open-source framework for developing scalable machine learning and deep learning applications.
 
-📖 Resource:
-[https://lnkd.in/g3fw3uRV](https://lnkd.in/g3fw3uRV)
-
 ---
 
 ## Keras
 
 Keras is a high-level deep learning API that simplifies the development of neural networks while running seamlessly on TensorFlow.
 
-📖 Resource:
-[https://lnkd.in/gfPTfbgg](https://lnkd.in/gfPTfbgg)
-
 ---
 
 ## PyTorch
 
 PyTorch is a popular deep learning framework widely used in research and industry for building neural networks and AI applications.
-
-📖 Resource:
-[https://bit.ly/3lnsiIz](https://bit.ly/3lnsiIz)
 
 ---
 
