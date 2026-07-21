@@ -34,20 +34,20 @@ Follow this structured day-by-day learning plan to strengthen your Python progra
 
 | Day    | Resource                                                                                   |
 | ------ | ------------------------------------------------------------------------------------------ |
-| Day 1  |  |
-| Day 2  |  |
-| Day 3  |  |
-| Day 4  |  |
-| Day 5  |  |
-| Day 6  |  |
-| Day 7  |  |
-| Day 8  |  |
-| Day 9  |  |
-| Day 10 |  |
-| Day 11 |  |
-| Day 12 |  |
-| Day 13 |  |
-| Day 14 |  |
+| Day 1  | Day 1.pdf |
+| Day 2  | Day 2.pdf |
+| Day 3  | Day 3.pdf |
+| Day 4  | Day 4.pdf |
+| Day 5  | Day 5.pdf |
+| Day 6  | Day 6.pdf |
+| Day 7  | Day 7.pdf |
+| Day 8  | Day 8.pdf |
+| Day 9  | Day 9.pdf |
+| Day 10 | Day 10.pdf |
+| Day 11 | Day 11.pdf |
+| Day 12 | Day 12.pdf |
+| Day 13 | Day 13.pdf |
+| Day 14 | Day 14.pdf |
 
 ---
 
